@@ -1,0 +1,19 @@
+POST http://localhost:3000/reportes
+Content-Type: application/json
+
+{
+  "tipo": "Vias",
+  "descripcion": "Hueco en la calle 32 del barrio Boston"
+}
+
+### prueba ruta GET
+GET http://localhost:3000/reportes
+
+###
+POST http://localhost:3000/reportes
+Content-Type: application/json
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Semáforo dañado en la intersección de la avenida principal"
+  }

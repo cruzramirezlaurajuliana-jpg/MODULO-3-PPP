@@ -1,0 +1,12 @@
+ejemplo 1:
+{
+  "tipo": "Vías",
+  "descripcion": "Hueco profundo en la calle 32 del barrio Boston"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Semáforo dañado en la intersección de la avenida principal"
+  }
+  
