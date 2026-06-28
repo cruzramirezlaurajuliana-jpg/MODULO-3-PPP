@@ -1,0 +1,5 @@
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "comisión hurto",
+  "descripcion": "e reporta robo en el parque central del barrio"
+}

@@ -1,0 +1,16 @@
+POST http://localhost:3000/registro
+Content-Type: application/json
+
+{
+  "nombre": "Maria",
+  "descripcion": "Hola comunidad"
+}
+
+### otra incidenicia
+POST http://localhost:3000/incidencia
+Content-Type: application/json
+
+{
+  "tipo": "comisión de hurto",
+  "descripcion": "se reporta robo en el parque central del barrio"
+}

@@ -1,0 +1,12 @@
+
+Los datos estructurados permiten procesarlos automáticamente sin interpretación manual
+Facilitan la clasificación y priorización de problemas reportados por la comunidad
+Reducen errores humanos al estandarizar el formato de entrada de información
+Permiten generar estadísticas y dashboards en tiempo real para la toma de decisiones
+Hacen posible integrar los reportes con otros sistemas (bases de datos, APIs, alertas)
+Aumentan la transparencia: el ciudadano sabe exactamente qué información proporcionar
+Agilizan la respuesta institucional al tener los datos listos para su procesamiento
+Favorecen la participación ciudadana al ofrecer canales claros y accesibles de comunicación
+Permiten auditar y rastrear cada reporte, garantizando rendición de cuentas
+En suma, estructurar la información ciudadana convierte datos dispersos en conocimiento
+accionable que mejora los servicios públicos y fortalece la democracia digital
